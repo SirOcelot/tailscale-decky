@@ -1,0 +1,1 @@
+{"name":"Tailscale Decky","author":"Adam Faylor (SirOcelot)","description":"Manage Tailscale on Steam Deck (Basic+Advanced).","version":"1.0.0","main":"frontend/main.tsx","backend":"backend/backend.py"}
